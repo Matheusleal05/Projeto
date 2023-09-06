@@ -1,0 +1,38 @@
+algoritimos: "São uma sequencia de passos, conjunto de regras"
+
+logica de programação: "Maneira de pensar"
+
+Sintaxe: "Maneira correta de escrever"
+
+OBS: "Programe detalhe por detalhe de maneira correta"
+
+Variaveis:"São um tipo de dado reservado que podem ser utilizados em qualquer momento"
+
+Existem 3 tipos de variaveis: "Let, Var e Const"
+Existem 3 tipos de dados: "string, number e boolean"
+
+Let: "Pode ser mudada de valor a qualquer momento"
+ex: let boasVindas = "Fala dev!"
+                      boasVindas = "Fala dev! Beleza?"
+
+Const: "Não pode ser alterada!"
+
+FUNÇÕES:
+Serve para:
+-Agrupamento de codigo
+-Reuso de codigo
+-Mini programa dentro de um programa maior
+
+
+OBJETO:
+Um objeto possui atributos e metodos
+
+Atributos: "São as propiedades de um objeto"
+
+Metodos: "São as funcionalidades de um objeto"
+
+o atributo taggle(): serve para chegar si um uma condição é verdadeira. se sim, ele remove, si não, ele adiciona
+
+setAtribute() : serve para mudar a atribuição de um valor
+
+

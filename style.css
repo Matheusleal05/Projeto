@@ -77,7 +77,7 @@ body {
 
 #switch span {
     display: block;
-    width: 64px;
+    width: 65px;
     height: 24px;
 
     background: var(--surface-color);
